@@ -1,0 +1,8 @@
+YYYHTTPServer.xcodeproj/xcuserdata/
+YYYHTTPServer.xcworkspace/
+first_upload.sh
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+YYYHTTPServer.xcodeproj/project.xcworkspace/xcuserdata/
