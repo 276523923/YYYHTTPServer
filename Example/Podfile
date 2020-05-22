@@ -1,5 +1,5 @@
 use_frameworks!
-source 'https://github.com/CocoaPods/Specs'
+#source 'https://github.com/CocoaPods/Specs'
 
 target 'YYYHTTPServer' do
   pod 'YYYHTTPServer', :path => '../'
